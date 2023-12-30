@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>SMART HOME APPLIANCES</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+<!-- Links for Jquery and bootstrap css -->
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+ <!-- ///////////////////////////////////////////////////////-->
+ <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto&display=swap">
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<script>
+<!-- jqurey script -->
+$(document).ready(function(){
+
+	$('#myCarousel').carousel({
+  interval: 3000
+})
+
+$('.carousel .item').each(function(){
+  var next = $(this).next();
+  if (!next.length) {
+    next = $(this).siblings(':first');
+  }
+  next.children(':first-child').clone().appendTo($(this));
+});
+});
+</script>
+<style>
+* {
+		box-sizing : unset;
+	}
+
+.col-md-6{
+		width : 45% ! important;
+	}
+</style>
+
+
+
+</head>
+<body>
+	<script type="text/javascript" src="autocomplete.js"></script>
+	<!-- Start #logo top content of the webpage-->
+	<div id="logo">
+		<!-- The name of the company goes here -->
+		<header>
+			<h1 style="font-family: 'Roboto', sans-serif; "><a href="#" style="color: rgb(36, 18, 7);">Smart Home Appliances</a></h1>
+		<h5><a style="color: rgb(78, 64, 48);text-align: center;margin-left: 5%;">One Stop for all Home Appliances</a></h5>
+	</header>
+	</div>
+	<nav class="navbar navbar-inverse" style="background-color: rgb(211, 158, 98);">
+		<div class="container-fluid">
+			<ul class="nav navbar-nav" style="margin-left:20%">
+				<li><a href="OrderUpdatePage" style=" color: rgb(102, 23, 36)">Manage Customer Orders</a></li>
+				<li><a href="NewCustomerPage" style=" color: rgb(102, 23, 36)">Add Customer Accounts</a></li>
+				<li><a href="SAMLogout" style=" color: rgb(102, 23, 36)">SignOut</a></li>
+			</ul>
+		</div>
+	</nav>
+	<div id="header">
+	
+

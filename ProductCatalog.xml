@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+<SmartDoorbellCatalog>
+
+     <smartDoorbell id="ringVideoDoorbell">
+            <name>Ring Video Doorbell</name>
+            <price>99.99</price>
+            <image>ringVideoDoorbell.jpg</image>
+            <description>1080p HD video, improved motion detection, easy installation Satin Nickel.</description>
+            <manufacturer>Amazon</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <accessories>
+                <accessory>bosespeakers</accessory>
+                <accessory>yamahaht</accessory>		
+                <accessory>wheel</accessory>
+                <accessory>hdmiCable</accessory>
+            </accessories>
+    </smartDoorbell>
+
+    <smartDoorbell id="nestHelloVideoDoorbell">
+            <name>Nest Hello Video Doorbell</name>
+            <price>179.99</price>
+            <image>nestHelloVideoDoorbell.jpg</image>
+            <description>Wired Doorbell with 24/7 Streaming. Smart Doorbell Camera for Home with HDR Video, HD Talk and Listen, Night.</description>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <accessories>
+                <accessory>bosespeakers</accessory>
+                <accessory>yamahaht</accessory>		
+                <accessory>wheel</accessory>
+                <accessory>hdmiCable</accessory>
+            </accessories>
+    </smartDoorbell>
+
+    <smartDoorbell id="arloVideoDoorbell">
+            <name>Arlo Video Doorbell</name>
+            <price>68.69</price>
+            <image>arloVideoDoorbell.jpg</image>
+            <description>Wired Video Doorbell - HD Video, 180 degree View, Night Vision, 2 Way Audio, Security Camera.</description>
+            <manufacturer>Arlo</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <accessories>
+                <accessory>bosespeakers</accessory>
+                <accessory>yamahaht</accessory>		
+                <accessory>wheel</accessory>
+                <accessory>hdmiCable</accessory>
+            </accessories>
+    </smartDoorbell>
+
+
+    <smartDoorbell id="eufyVideoDoorbell">
+            <name>Eufy Video Doorbell</name>
+            <price>79.99</price>
+            <image>eufyVideoDoorbell.jpg</image>
+            <description>Security Video Doorbell 2E (Battery) with 2K Resolution and 120-Day Battery, Hardwired Installation Not Supported.</description>
+            <manufacturer>Anker Innovations</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <accessories>
+                <accessory>bosespeakers</accessory>
+                <accessory>yamahaht</accessory>		
+                <accessory>wheel</accessory>
+                <accessory>hdmiCable</accessory>
+            </accessories>
+    </smartDoorbell>
+
+    <smartDoorbell id="simpliSafeVideoDoorbell">
+            <name>Simpli Safe Video Doorbell</name>
+            <price>169.99</price>
+            <image>simpliSafeVideoDoorbell.jpg</image>
+            <description>Compatible with SimpliSafe Pro Smart Wi-Fi Video Doorbell. No Existing Wiring Required. Transformer, Adapter, Power Kit and Supply All in One.</description>
+            <manufacturer>Simpli Safe</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <accessories>
+                <accessory>bosespeakers</accessory>
+                <accessory>yamahaht</accessory>		
+                <accessory>wheel</accessory>
+                <accessory>hdmiCable</accessory>
+            </accessories>
+    </smartDoorbell>
+
+    <smartDoorbell id="blinkVideoDoorbell">
+            <name>Blink Video Doorbell</name>
+            <price>59.99</price>
+            <image>blinkVideoDoorbell.jpg</image>
+            <description>Blink Video Doorbell + Sync Module 2, Two-year battery life, Two-way audio, HD video, motion and chime app alerts and Alexa enabled.</description>
+            <manufacturer>Amazon</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <accessories>
+                <accessory>bosespeakers</accessory>
+                <accessory>yamahaht</accessory>		
+                <accessory>wheel</accessory>
+                <accessory>hdmiCable</accessory>
+            </accessories>
+    </smartDoorbell>
+    
+</SmartDoorbellCatalog>
+
+
+    <!-- Smart Doorbells end -->
+
+    <!-- smart DoorLocks start -->
+
+<SmartDoorLockCatalog>
+    <smartDoorLock id="augustSmartLock">
+            <name>August Smart Lock</name>
+            <price>229.82</price>
+            <image>augustSmartLock.jpg</image>
+            <description>3rd Generation Silver and Connect Wi-Fi Bridge, Remote Access, Alexa Integration for Your August Smart Lock.</description>
+            <manufacturer>Assa Abloy</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+    </smartDoorLock>
+    <smartDoorLock id="schlageEncodeSmartWiFiDeadbolt">
+            <name>Schlage Encode Smart WiFi Deadbolt</name>
+            <price>268.47</price>
+            <image>schlageEncodeSmartWiFiDeadbolt.jpg</image>
+            <description>Built-in WiFi allows to monitor from anywhere. simply tap lock or unlock in your iPhone or Apple Watch for easy and secure access to your home.</description>
+            <manufacturer>Allegion</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+    </smartDoorLock>
+    <smartDoorLock id="yaleAssureLock">
+            <name>Yale Assure Lock</name>
+            <price>239.99</price>
+            <description>Real Living Slim Keyless Deadbolt with Touchscreen Keypad and Bluetooth with Z Wave.</description>
+            <image>yaleAssureLock.jpeg</image>
+            <manufacturer>Assa Abloy</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+    </smartDoorLock>
+
+    <smartDoorLock id="kwiksetSmartCodeElectronicDeadbolt">
+            <name>Kwikset Smart Code Electronic Deadbolt</name>
+            <price>52.13</price>
+            <description>Kwikset Powerbolt Keyless Electronic Door Lock 5-Button Keypad, With Keyed Entry Deadbolt, Featuring SmartKey Security Re-Key Technology in Satin Nickel.</description>
+            <image>kwiksetSmartCodeElectronicDeadbolt.jpg</image>
+            <manufacturer>Spectrum Brands</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+    </smartDoorLock>
+
+    <smartDoorLock id="locklySecureProDeadbolt">
+            <name>Lockly Secure Pro Deadbolt</name>
+            <price>299.99</price>
+            <description>Lockly Secure Pro, Wi-Fi Smart Lock, PIN Keypad, 3D Biometric Fingerprint Sensor, Auto Lock Deadbolt. Special Edition for Special Door Frame and Thick Fingers.</description>
+            <image>locklySecureProDeadbolt.jpg</image>
+            <manufacturer>PIN Genie</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+    </smartDoorLock>
+
+
+    <smartDoorLock id="locklySecurePlusSmartDeadbolt">
+            <name>Lockly Secure Plus Smart Deadbolt</name>
+            <price>249.99</price>
+            <description>Lockly Secure Plus, Keyless Entry Door Lock, Smart Locks for Front Door, Smart Lock Deadbolt, PIN Keypad, 3D Biometric Fingerprint Sensor, Auto Lock Smart Door Lock.</description>
+            <image>locklySecurePlusSmartDeadbolt.jpg</image>
+            <manufacturer>PIN Genie</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+    </smartDoorLock>
+
+
+    <smartDoorLock id="schlageConnectSmartDeadbolt">
+            <name>Schlage Connect Smart Deadbolt</name>
+            <price>213.59</price>
+            <description>SCHLAGE BE469ZP CAM 716 SCHLAGE Connect Smart Deadbolt With Alarm Inbuilt Camelot Trim In Aged Bronze.</description>
+            <image>schlageConnectSmartDeadbolt.jpg</image>
+            <manufacturer>Allegion</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+    </smartDoorLock>
+
+
+    <smartDoorLock id="schlageBE365KeypadDeadbolt">
+            <name>Schlage BE365 Keypad Deadbolt</name>
+            <price>109.07</price>
+            <description>Schlage BE365 V CAM 619 Camelot Keypad Deadbolt, Electronic Keyless Entry Lock, Satin Nickel.</description>
+            <image>schlageBE365KeypadDeadbolt.jpg</image>
+            <manufacturer>Allegion</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+    </smartDoorLock>
+
+    <smartDoorLock id="yaleRealLivingDeadbolt">
+            <name>Yale Real Living Deadbolt</name>
+            <price>124.59</price>
+            <description>Yale Real Living Assure Smart Lock Replacement Deadbolt with App or Keypad or Electronic Guest Key Access Satin Nickel.</description>
+            <image>yaleRealLivingDeadbolt.jpg</image>
+            <manufacturer>Allegion</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+    </smartDoorLock>
+</SmartDoorLockCatalog>
+
+
+    <!-- smart DoorLocks end -->
+
+    <!-- Smart Speakers start-->
+
+<SpeakerCatalog>
+    <speaker id="amazonEcho">
+            <name>Amazon Echo</name>
+            <price>99.99</price>
+            <description>Amazon Echo is a smart speaker with clock and Alexa.</description>
+            <image>amazonEcho.jpg</image>
+            <manufacturer>Amazon</manufacturer>
+            <condition>New</condition>
+            <discount>2.0</discount>
+    </speaker>
+    <speaker id="googleNestAudio">
+            <name>Google Nest Audio</name>
+            <price>99.99</price>
+            <description>Built-In Speakers, 3 Microphones, Google Assistant available, Featured Streaming Services YouTube, Spotify, SIRIUS, Pandora.</description>
+            <image>googleNestAudio.jpg</image>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <discount>2.0</discount>
+    </speaker>
+
+    <speaker id="appleHomePod">
+            <name>Apple HomePod</name>
+            <price>259.99</price>
+            <description>Bluetooth speakers with minimum 1 year Warranty.</description>
+            <image>appleHomePod.jpeg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>2.0</discount>
+    </speaker>
+
+    <speaker id="sonosOne">
+            <name>Sonos One</name>
+            <price>299.99</price>
+            <description>Sonos One (Gen 1) - The powerful smart speaker with voice control built in.</description>
+            <image>sonosOne.jpg</image>
+            <manufacturer>Bose</manufacturer>
+            <condition>New</condition>
+            <discount>2.0</discount>
+    </speaker>
+
+    <speaker id="boseSmartSpeakers">
+            <name>Bose Smart Speakers</name>
+            <price>379.99</price>
+            <description>Bose Home Speaker 500: Smart Bluetooth Speaker with Alexa Voice Control Built-In, Black.</description>
+            <image>boseSmartSpeakers.jpg</image>
+            <manufacturer>Bose</manufacturer>
+            <condition>New</condition>
+            <discount>2.0</discount>
+    </speaker>
+
+
+    <speaker id="amazonEchoPlus">
+            <name>Amazon Echo Plus</name>
+            <price>94.99</price>
+            <description>Echo Plus (2nd Gen) - Premium sound with built-in smart home hub - Heather Gray.</description>
+            <image>amazonEchoPlus.jpg</image>
+            <manufacturer>Amazon</manufacturer>
+            <condition>New</condition>
+            <discount>2.0</discount>
+    </speaker>
+    <speaker id="appleHomePodmini">
+            <name>Apple HomePod mini</name>
+            <price>79.99</price>
+            <description>Using The Apple HomePod mini Control all your compatible Apple devices, talk to family members in other rooms, and enjoy full Siri functionality.</description>
+            <image>appleHomePodmini.jpeg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>2.0</discount>
+    </speaker>
+    <speaker id="boseSoundTouch">
+            <name>Bose SoundTouch</name>
+            <price>339.99</price>
+            <description>As a music enthusiast, you're streaming songs all the time. SoundTouch 30 wireless music system lets you hear them like never before.</description>
+            <image>boseSoundTouch.jpg</image>
+            <manufacturer>Bose</manufacturer>
+            <condition>New</condition>
+            <discount>2.0</discount>
+    </speaker>
+
+</SpeakerCatalog>
+
+    <!-- Smart Speakers ends -->
+
+    <!-- Smart Lightings -->
+<SmartLightingCatalog>
+    <smartLighting id="philipsHueSmartBulbs">
+            <name>Philips Hue Smart Bulbs</name>
+            <price>49.99</price>
+            <description>Philips Hue 9.5W A19 Color Changing Bulbs - Indoor - Works with Alexa and Google Assistant - Control with Voice or App.</description>
+            <image>PhilipsHueSmartBulbs.jpg</image>
+            <manufacturer>Philips</manufacturer>
+            <condition>New</condition>
+            <discount>2.0</discount>
+    </smartLighting>
+    <smartLighting id="lifxSmartBulbs">
+            <name>LIFX Smart Bulbs</name>
+            <price>59.99</price>
+            <description>LIFX Clean, A19 1100 lumens with Antibacterial HEV, Wi-Fi Smart LED Light Bulb, No Bridge Required, Compatible with Alexa, Hey Google, HomeKit and Siri.</description>
+            <image>LIFXSmartBulbs.jpg</image>
+            <manufacturer>LIFX</manufacturer>
+            <condition>New</condition>
+            <discount>2.0</discount>
+    </smartLighting>
+
+    <smartLighting id="tpLinkKasaSmartBulbs">
+            <name>TP-Link Kasa Smart Bulbs</name>
+            <price>9.99</price>
+            <description>Control your lights from anywhere using your smartphone and the Kasa app (iOS, Android). Works with WIFI.</description>
+            <image>tpLinkKasaSmartBulbs.jpeg</image>
+            <manufacturer>Nanoleaf</manufacturer>
+            <condition>New</condition>
+            <discount>2.0</discount>
+    </smartLighting>
+
+    <smartLighting id="sengledSmartBulbs">
+            <name>Sengled Smart Bulbs</name>
+            <price>14.99</price>
+            <description>Sengled - Smart A19 LED 60W Bulb Bluetooth Mesh Works with Amazon Alexa - Multicolor.</description>
+            <image>sengledSmartBulbs.jpg</image>
+            <manufacturer>Sengled</manufacturer>
+            <condition>New</condition>
+            <discount>2.0</discount>
+    </smartLighting>
+
+    <smartLighting id="nanoleafLightPanels">
+            <name>Nanoleaf Light Panels</name>
+            <price>37.99</price>
+            <description>Hexagon LED Lights - Premium Set of Hexagon LED 6 PCS. Remote Control, Touch Sensitivity, RGB Lighting, Aesthetic Room Decor, Perfect for Gaming Room and Living Room.</description>
+            <image>NanoleafLightPanels.jpg</image>
+            <manufacturer>Nanoleaf</manufacturer>
+            <condition>New</condition>
+            <discount>2.0</discount>
+    </smartLighting>
+
+    <smartLighting id="philipsHueLightstrips">
+            <name>Philips Hue Lightstrips</name>
+            <price>69.95</price>
+            <description>Philips Hue LightStrip Plus Dimmable LED Smart Light Extension (Requires Lightstrip Base and Hue Hub, Works with Alexa, HomeKit and Google Assistant).</description>
+            <image>philipsHueLightstrips.jpg</image>
+            <manufacturer>Philips</manufacturer>
+            <condition>New</condition>
+            <discount>2.0</discount>
+    </smartLighting>
+
+    <smartLighting id="lifxBeam">
+            <name>LIFX Beam</name>
+            <price>37.99</price>
+            <description>LIFX Beam Smart Light Bar 6 Piece Kit (L3BEAMKITUS), Multicolor, 1 Count, 33 Watts.</description>
+            <image>lifxBeam.jpg</image>
+            <manufacturer>LIFX</manufacturer>
+            <condition>New</condition>
+            <discount>2.0</discount>
+    </smartLighting>
+
+    <smartLighting id="sengledSmartWi-FiLEDMulticolorLightStrip">
+            <name>Sengled Smart Wi-Fi LED Multicolor Light Strip</name>
+            <price>7.95</price>
+            <description>Starfish 3ft Smart Adjustable Color And White Tunable Indoor LED Strip Light Extension With Wifi.</description>
+            <image>sengledSmartWiFiLEDMulticolorLightStrip.jpg</image>
+            <manufacturer>Sengled</manufacturer>
+            <condition>New</condition>
+            <discount>2.0</discount>
+    </smartLighting>
+
+</SmartLightingCatalog>
+
+    <!-- Smart Lighting ends -->
+
+    <!-- Smart Thermostat -->
+
+<SmartThermostatCatalog>
+    <smartThermostat id="nestLearningThermostat">
+            <name>Nest Learning Thermostat</name>
+            <price>199.99</price>
+            <description>Google Nest Learning Thermostat - Programmable Smart Thermostat for Home - 3rd Generation Nest Thermostat - Works with Alexa - Stainless Steel.</description>
+            <image>nestLearningThermostat.jpg</image>
+            <manufacturer>Nest Labs</manufacturer>
+            <condition>New</condition>
+            <discount>2.0</discount>
+    </smartThermostat>
+
+    <smartThermostat id="ecobeeSmartThermostat">
+            <name>Ecobee Smart Thermostat</name>
+            <price>189.99</price>
+            <description>ecobee New Smart Thermostat Enhanced - Programmable Wifi Thermostat - Works with Siri, Alexa, Google Assistant - Energy Star Certified - Smart Home.</description>
+            <image>ecobeeSmartThermostat.jpg</image>
+            <manufacturer>Ecobee</manufacturer>
+            <condition>New</condition>
+            <discount>2.0</discount>
+    </smartThermostat>
+    
+    <smartThermostat id="honeywellHomeT9SmartThermostat">
+            <name>Honeywell Home T9 Smart Thermostat</name>
+            <price>150.56</price>
+            <description>Honeywell Home T9 WiFi Smart Thermostat, Smart Room Sensor Ready, Touchscreen Display, Alexa and Google Assist White.</description>
+            <image>honeywellHomeT9SmartThermostat.jpg</image>
+            <manufacturer>Honeywell International</manufacturer>
+            <condition>New</condition>
+            <discount>2.0</discount>
+    </smartThermostat>
+    
+    <smartThermostat id="sensiSmartThermostat">
+            <name>Sensi Smart Thermostat</name>
+            <price>95.25</price>
+            <description>Sensi Touch Smart Thermostat by Emerson with touchscreen, Programmable, Wi-Fi, Mobile App, Easy DIY, Data Privacy, Works with Alexa, Energy Star Certified, C-Wire Required.</description>
+            <image>sensiSmartThermostat.jpg</image>
+            <manufacturer>Emerson Electric</manufacturer>
+            <condition>New</condition>
+            <discount>2.0</discount>
+    </smartThermostat>
+         
+    <smartThermostat id="johnsonControlsGLASSmartThermostat">
+            <name>Johnson Controls GLAS Smart Thermostat</name>
+            <price>421</price>
+            <description>GLAS Smart Thermostat by Johnson Controls, Translucent OLED Touchscreen, Wi-Fi, Mobile App, Works with Amazon Alexa.</description>
+            <image>johnsonControlsGLASSmartThermostat.jpg</image>
+            <manufacturer>Emerson Electric</manufacturer>
+            <condition>New</condition>
+            <discount>2.0</discount>
+    </smartThermostat>
+
+    <smartThermostat id="ecobee3LiteSmartThermostat">
+            <name>Ecobee3 Lite Smart Thermostat</name>
+            <price>149.99</price>
+            <description>ecobee - 3 lite Smart Thermostat. Worls with Amazon Alexa, Apple HomeKit, Arlo, Cortana, Google Assistant, Hue, SmartThings, Siri.</description>
+            <image>ecobee3LiteSmartThermostat.jpg</image>
+            <manufacturer>Ecobee</manufacturer>
+            <condition>New</condition>
+            <discount>2.0</discount>
+    </smartThermostat>
+
+    <smartThermostat id="ecobee3LiteSmartThermostat">
+            <name>Honeywell Home T5+ Smart Thermostat</name>
+            <price>120.45</price>
+            <description>The T5 smart thermostat allows you to take comfort knowing your home temperature will always be just how you like it. Easy to install.</description>
+            <image>ecobee3LiteSmartThermostat.jpg</image>
+            <manufacturer>Honeywell International</manufacturer>
+            <condition>New</condition>
+            <discount>2.0</discount>
+    </smartThermostat>
+</SmartThermostatCatalog>
+
+
+<AccessoryCatalog>
+
+    <accessory id="bosespeakers">
+        <name>Bose Speakers</name>
+        <price>200.0</price>
+        <image>bosespeakers.jpg</image>
+        <manufacturer>LG</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </accessory>
+
+    <accessory id="yamahaht">
+        <name>Turtle Beach Headset</name>
+        <price>500.99</price>
+        <image>yamahaht.jpg</image>
+        <manufacturer>LG</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </accessory>
+	 
+	<accessory id="sonyear">
+        <name>SonyEarphones</name>
+        <price>50.99</price>
+        <image>sonyear.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>5.0</discount>
+    </accessory>
+
+	<accessory id="blackremote">
+        <name>Black TV Remote</name>
+        <price>50.99</price>
+        <image>remote.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>5.0</discount>
+    </accessory>
+
+	<accessory id="wheel">
+        <name>Trolly Wheels</name>
+        <price>30.99</price>
+        <image>seroWheel.jpg</image>
+        <manufacturer>LG</manufacturer>
+        <condition>New</condition>
+        <discount>5.0</discount>
+    </accessory>
+
+    <accessory id="hdmiCable">
+        <name>HDMI Cable</name>
+        <price>10.99</price>
+        <image>hdmiCable.jpg</image>
+        <manufacturer>LG</manufacturer>
+        <condition>New</condition>
+        <discount>1.0</discount>
+    </accessory>
+	 
+	<accessory id="fiberOpticcable">
+        <name>Fiber Optic cable</name>
+        <price>200.99</price>
+        <image>fiberOpticcable.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+    </accessory>
+
+	<accessory id="Adapter">
+        <name>Adapter</name>
+        <price>89.99</price>
+        <image>charger.jpg</image>
+        <manufacturer>Vizio</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </accessory>
+
+    <accessory id="transmit">
+        <name>Wireless Transmitter</name>
+        <price>89.99</price>
+        <image>audioTransmitandreceive.jpg</image>
+        <manufacturer>Vizio</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </accessory>
+	 
+	<accessory id="hdmiport">
+        <name>HDMI 4K Port </name>
+        <price>89.99</price>
+        <image>4port4khdmi.jpg</image>
+        <manufacturer>Vizio</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </accessory>
+	 
+
+    <accessory id="xbox360_wc">
+        <name>XBOX Speeding Wheel</name>
+        <price>89.99</price>
+        <image>XBOX360-SpeedWheel.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </accessory>
+
+    <accessory id="xbox360_sh">
+        <name>XBOX Wireless Adapter</name>
+        <price>89.99</price>
+        <image>xbox360_wa.png</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </accessory>
+	 
+	<accessory id="xbox360_vb">
+        <name>Remote</name>
+        <price>89.99</price>
+        <image>remote.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </accessory>
+
+	<accessory id="xbox360_rs">
+        <name>messengerkit</name>
+        <price>89.99</price>
+        <image>messengerkit.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </accessory>
+	 
+	<accessory id="xbox360_mp">
+        <name>Steering</name>
+        <price>89.99</price>
+        <image>steering.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </accessory>
+
+
+    <accessory id="ps4_wc">
+        <name>PS Controller</name>
+        <price>89.99</price>
+        <image>XBOX controller.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </accessory>
+
+    <accessory id="ps3_wc">
+        <name>PS Gaming HeadPhones</name>
+        <price>89.99</price>
+        <image>Turtle Beach Headset.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </accessory>
+
+</AccessoryCatalog>
+
+</ProductCatalog>
